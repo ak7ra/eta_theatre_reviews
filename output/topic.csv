@@ -1,21 +1,21 @@
 topic_id,0,1,2,3,4,5,6,label,doc_weight_sum,term_freq
-T00,does,play,presence,energy,production,job,moments,"T00 does, play, presence, energy, production, job, moments",559.1960253956443,0.04648036928432402
-T01,lady,wife,portrayal,fool,king,character,shows,"T01 lady, wife, portrayal, fool, king, character, shows",560.8005093190119,0.04224817077800325
-T02,love,play,audience,production,falls,stage,end,"T02 love, play, audience, production, falls, stage, end",601.0353637606115,0.052473547158433366
-T03,dream,midsummer,nights,nights dream,midsummer nights,audience,production,"T03 dream, midsummer, nights, nights dream, midsummer nights, audience, production",590.6143073518751,0.0517990707034212
-T04,stage,actor,takes,point,production,players,act,"T04 stage, actor, takes, point, production, players, act",559.9186407420557,0.041944813801645844
-T05,play,set,work,audience,role,does,director,"T05 play, set, work, audience, role, does, director",568.0878849520026,0.04931640555974338
-T06,stage,plays,set,audience,scene,production,left,"T06 stage, plays, set, audience, scene, production, left",643.8729789435477,0.05438226855079964
-T07,production,director,season,stage,play,years,world,"T07 production, director, season, stage, play, years, world",616.1083848887774,0.050659206911997705
-T08,production,moment,characters,rest,dont,tone,director,"T08 production, moment, characters, rest, dont, tone, director",568.8585444893339,0.04382577781316293
-T09,scene,play,stage,audience,seen,ghost,speech,"T09 scene, play, stage, audience, seen, ghost, speech",629.4229290725341,0.05580842370466539
-T10,play,production,effect,witches,sense,company,audience,"T10 play, production, effect, witches, sense, company, audience",606.6692709415444,0.05190232479303424
-T11,actors,lovers,production,scenes,director,dance,audience,"T11 actors, lovers, production, scenes, director, dance, audience",601.891458492034,0.04992280550290318
-T12,production,performance,sir,time,gender,audience,character,"T12 production, performance, sir, time, gender, audience, character",602.935678338312,0.05043172260094725
-T13,play,performances,production,actors,scene,audience,hand,"T13 play, performances, production, actors, scene, audience, hand",641.262360450835,0.05332805785872087
-T14,lost,role,plays,loves,production,bit,scene,"T14 lost, role, plays, loves, production, bit, scene",580.7334790230387,0.049711821266842635
-T15,cast,costume,designer,dress,production,design,mechanicals,"T15 cast, costume, designer, dress, production, design, mechanicals",641.5248005088164,0.05252307635271976
-T16,audience,night,king,play,performance,stage,character,"T16 audience, night, king, play, performance, stage, character",540.1722585120546,0.04370769270594362
-T17,design,set,play,set design,costumes,production,lighting,"T17 design, set, play, set design, costumes, production, lighting",618.4582290009173,0.05459806415590824
-T18,play,production,women,stage,love,characters,productions,"T18 play, production, women, stage, love, characters, productions",608.2773454981851,0.05150673548652073
-T19,production,playing,actors,company,theatre,scene,woman,"T19 production, playing, actors, company, theatre, scene, woman",630.159550318803,0.05342964501026267
+T00,sir,directors,production,audience,love,problem,performance,"T00 sir, directors, production, audience, love, problem, performance",621.0114670596405,0.04336479310570484
+T01,production,character,works,portrayal,theater,performance,theatre,"T01 production, character, works, portrayal, theater, performance, theatre",763.7400339975035,0.055294014343514185
+T02,play,end,production,sense,time,theatre,audience,"T02 play, end, production, sense, time, theatre, audience",649.8354997586372,0.04982182066530114
+T03,production,plays,love,makes,audience,role,night,"T03 production, plays, love, makes, audience, role, night",722.2670391364483,0.053630026811991374
+T04,play,love,women,set,men,time,years,"T04 play, love, women, set, men, time, years",615.4997383183445,0.047377893027343854
+T05,set,play,production,design,night,director,set design,"T05 set, play, production, design, night, director, set design",679.4638029922143,0.052175645026510314
+T06,cast,director,production,characters,audience,actors,sound,"T06 cast, director, production, characters, audience, actors, sound",740.8005145460286,0.057379414730848226
+T07,costume,designer,stage,design,costumes,set,lighting,"T07 costume, designer, stage, design, costumes, set, lighting",708.6213913092046,0.055735310816508815
+T08,does,text,play,actor,scene,point,playing,"T08 does, text, play, actor, scene, point, playing",710.1851804653993,0.050416179998946875
+T09,stage,look,production,opening,night,scene,blood,"T09 stage, look, production, opening, night, scene, blood",645.7184969071807,0.04520910906528128
+T10,play,audience,performances,actors,cast,staging,witches,"T10 play, audience, performances, actors, cast, staging, witches",653.5792987899727,0.05058698108079592
+T11,stage,play,audience,love,seen,ending,plays,"T11 stage, play, audience, love, seen, ending, plays",637.5045915709077,0.04962945540247087
+T12,dream,midsummer,production,nights,performance,nights dream,midsummer nights,"T12 dream, midsummer, production, nights, performance, nights dream, midsummer nights",632.6920114870236,0.049893098109805065
+T13,play,life,fun,love,make,tries,production,"T13 play, life, fun, love, make, tries, production",678.0857987213925,0.0513273632989581
+T14,scene,woman,play,film,audience,plays,husband,"T14 scene, woman, play, film, audience, plays, husband",653.8993898692065,0.04605273456290995
+T15,play,language,duke,lost,audience,scenes,production,"T15 play, language, duke, lost, audience, scenes, production",712.6279615785533,0.05413339110411104
+T16,production,company,fairies,dress,mechanicals,performance,lovers,"T16 production, company, fairies, dress, mechanicals, performance, lovers",681.4575997870794,0.05001762111127328
+T17,stage,actors,moment,played,space,loves,lost,"T17 stage, actors, moment, played, space, loves, lost",654.5694849512647,0.04732791604195631
+T18,play,act,man,scene,role,audience,start,"T18 play, act, man, scene, role, audience, start",636.1775100889095,0.045218490950648664
+T19,stage,characters,play,lighting,dont,actors,come,"T19 stage, characters, play, lighting, dont, actors, come",636.2631886649134,0.04540874074511992
