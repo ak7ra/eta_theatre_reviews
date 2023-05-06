@@ -28,7 +28,7 @@ To run the files within this repository, one must have these Python Packages ins
 * `seaborn`
 * `os`
 * `bs4`
-* nltk.stem.porter`
+* `nltk.stem.porter`
 * `nltk.stem.snowball`
 * `nltk.stem.lancaster`
 * `re`
