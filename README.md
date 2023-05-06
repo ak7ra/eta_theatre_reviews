@@ -4,7 +4,7 @@ Theatrical performances are an art form that are expressed through rich, live st
 
 ## Source Data
 
-The source data for this analysis was collected from the website https://www.playshakespeare.com/. This website describes itself as 'the best Shakespeare source for plays, news, reviews, and discussion' and contains, amongst other contents, reviews of theatrical performances based on the works of William Shakespeare. The webpages containing the reviews were manually downloaded as HTML files. In total, there were 292 HTML files which were later parsed into more analysis-appropriate formats in the file `parser.ipynb`. 
+The source data for this analysis was collected from the website https://www.playshakespeare.com/. This website describes itself as 'the best Shakespeare source for plays, news, reviews, and discussion' and contains, amongst other contents, reviews of theatrical performances based on the works of William Shakespeare. The webpages containing the reviews were manually downloaded as HTML files and are stored in the `data` subdirectory of this repository (I do not own the rights to this content, and this content is used for educational purposes). In total, there were 292 HTML files which were later parsed into more analysis-appropriate formats in the file `parser.ipynb`. 
 
 ## Metadata
 **Name:** Ami Kano <br />
