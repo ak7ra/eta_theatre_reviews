@@ -233,6 +233,10 @@ class gensim_corpus():
             
         # self.coords = self.coords[self.coords.stop == 0]
         
+        if os.path.exists(os.getcwd()+f'/output/'):
+            self.coords.to_csv(os.getcwd()+f'/output/word2vec.csv')
+        
+        
     def plot(self):
         fig = px.scatter(self.coords.reset_index(), 'x', 'y', 
            text='term_str', 
